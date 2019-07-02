@@ -27,7 +27,13 @@ Resnet50 Model Architecture Implementation using keras.
 - [RESNET50 mnist.ipynb](https://github.com/karthikziffer/RESNET50-Implementation/blob/master/RESNET50_mnist.ipynb) 
 
 
+---
 
+### To-Do
+
+[x] Modularize Model
+
+[] Create Model Class
 
 
 
