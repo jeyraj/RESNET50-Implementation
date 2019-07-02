@@ -33,7 +33,7 @@ Resnet50 Model Architecture Implementation using keras.
 
 - [x] Modularize Model
 
-- [] Create Model Class
+- [ ] Create Model Class
 
 
 
